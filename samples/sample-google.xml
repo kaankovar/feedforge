@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Test Feed</title>
+    <link>https://example.com</link>
+    <description>Sample</description>
+    <item>
+      <g:id>SKU-001</g:id>
+      <title>Kablosuz Kulaklık X100</title>
+      <description>Aktif gürültü engelleme, 30 saat pil ömrü.</description>
+      <link>https://example.com/urun/x100</link>
+      <g:image_link>https://example.com/img/x100.jpg</g:image_link>
+      <g:price>1499.90 TRY</g:price>
+      <g:sale_price>1299.90 TRY</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>SoundMax</g:brand>
+      <g:gtin>8690123456789</g:gtin>
+    </item>
+    <item>
+      <g:id>SKU-002</g:id>
+      <title>USB-C Hızlı Şarj Kablosu 2m</title>
+      <description></description>
+      <link>https://example.com/urun/kablo-2m</link>
+      <g:image_link>https://example.com/img/kablo.jpg</g:image_link>
+      <g:price>129,90 TL</g:price>
+      <g:availability>out of stock</g:availability>
+      <g:brand></g:brand>
+    </item>
+  </channel>
+</rss>
